@@ -54,9 +54,9 @@ As a Full Stack Developer with over 12 years of experience, my career is defined
 
 Feel free to reach out for collaborations, freelance opportunities, or to learn more about my work:
 
-**📧 Email:** ashokchandrapal@gmail.com  
-**🌐 Website:** _Coming soon_  
-**🔗 LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**📧 Email:** developer7039@gmail.com  
+**🌐 Website:**  https://ashokchandrapal.com/
+**🔗 LinkedIn:** [https://www.linkedin.com/in/ashok-chandrapal/](https://www.linkedin.com/in/ashok-chandrapal/)
 
 ---
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Laravel/Flutter open-source tools
 - 🤔 I’m looking for help with scaling AI-powered apps
 - 💬 Ask me about backend design, payment gateways, or cross-platform mobile UIs
-- 📫 How to reach me: ashokchandrapal@gmail.com
+- 📫 How to reach me: developer7039@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I often turn client ideas into working MVPs within days!
 
