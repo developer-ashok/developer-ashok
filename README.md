@@ -43,10 +43,10 @@ As a Full Stack Developer with over 12 years of experience, my career is defined
 | **Stripe Integration Laravel** | Payment gateway integration for Laravel projects using Stripe. | Laravel, PHP | [View Repo](https://github.com/developer-ashok/stripe-integration-laravel) |
 | **Razorpay Integration Laravel** | Laravel 5.x integration with Razorpay for secure Indian merchant payments. | Laravel, PHP | [View Repo](https://github.com/developer-ashok/razorpay-integration-laravel) |
 | **PEI Payment Gateway (Iceland)** | PHP package for PEI payment gateway integration (api.pei.is). | PHP | [View Repo](https://github.com/developer-ashok/pei) |
-| **Laravel Login with Google** | Laravel Socialite-based Google login integration guide. | Laravel, PHP | [View Repo](https://github.com/developer-ashok/laravel-login-with-google) |
-| **Design Tools** | Flutter package providing layout debugging tools like keylines and grids. | Flutter, Dart | [View Repo](https://github.com/Ashok-Varma/design_tools) |
-| **Syncfusion DataGrid Starter** | Example showing how to implement Syncfusion Flutter DataGrid. | Flutter, Dart | [View Repo](https://github.com/ashok-kuvaraja/getting-started-with-Syncfusion-Flutter-DataGrid) |
-| **Text Length Sorting in DataGrid** | Custom sorting in Flutter DataGrid by string length. | Flutter, Dart | [View Repo](https://github.com/ashok-kuvaraja/how-to-sort-the-columns-based-on-length-of-the-text-in-Flutter-datagrid) |
+| **Laravel Secret Link** | One-time secret link generator with expiry and optional password protection. | Laravel, PHP | [View Repo](https://github.com/developer-ashok/laravel-secret-link) |
+| **SkillSwap** | Cross-platform mobile app for skill exchange between users. | Flutter | [View Repo](https://github.com/developer-ashok/flutter-skillswap) |
+| **Flatmate Finder** | Flutter app MVP to find and connect with potential roommates. | Flutter | [View Repo](https://github.com/developer-ashok/flutter-flatmate) |
+| **Social Gatherings App** | A Flutter-based app to organize and RSVP for social events. | Flutter | [View Repo](https://github.com/developer-ashok/flutter-social-gatherings-mvp) |
 
 ---
 
